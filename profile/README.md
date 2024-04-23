@@ -1,6 +1,8 @@
 # Eclipse JKube
 
-This is the Eclipse JKube project auxiliary organization in GitHub. The main repository for the project is located at [github.com/eclipse/jkube](https://github.com/eclipse/jkube).
+This is the Eclipse JKube organization in GitHub.
+
+Eclipse JKube is part of the [Eclipse Foundation](https://eclipse.org) which is also on [GitHub](https://github.com/eclipse).
 
 
 ## Feedback and Community
@@ -13,7 +15,7 @@ Do you want to get involved?
 ### Support
 
 For any question, bug reporting, feature request, etc. please open a
-[GitHub issue](https://github.com/eclipse/jkube/issues/new) in our main repository.
+[GitHub issue](https://github.com/eclipse-jkube/jkube/issues/new) in our main repository.
 
 ### Public chat
 
