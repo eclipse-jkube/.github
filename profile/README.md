@@ -22,9 +22,9 @@ For any question, bug reporting, feature request, etc. please open a
 If you need an answer right away, check the [Eclipse JKube Gitter](https://gitter.im/eclipse/jkube) channel.
 Community and team members are eager to help you out or point to helpful resources to solve your questions.
 
-### Twitter
+### X
 
-For the latest news about Eclipse JKube, follow [@jkubeio on Twitter](https://twitter.com/jkubeio).
+For the latest news about Eclipse JKube, follow [@jkubeio on X](https://x.com/jkubeio).
 
 ### YouTube
 
